@@ -1,1 +1,9 @@
-
+[
+    {
+        "NAME": "MONARCH MODS (VIP)",
+        "LOGO": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/loader/logo/ic_gr.png",
+        "DOWNLOAD": "https://github.com/sdadasdsds22/ZONEEHAXX-PREMIUM-LIB/raw/refs/heads/main/libmonarchmodv1.so",
+        "GAME": "com.garena.game.codm",
+        "ARCH": "64bit"
+    }
+]
